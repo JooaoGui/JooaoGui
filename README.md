@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="João Guilherme — Full-stack developer" width="100%">
+  <img src="assets/banner.svg" alt="João Guilherme — Full-stack developer, with Naafiri in the Shurima desert" width="100%">
 </p>
 
 ### Hi, I'm João 👋
@@ -41,3 +41,5 @@ Full-stack developer from Maranhão, Brazil. I build web applications end to end
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
 </p>
+
+<sub>Banner: original pixel fan art of Naafiri (League of Legends). Created under Riot Games' "Legal Jibber Jabber" policy; Riot Games does not endorse or sponsor this profile.</sub>
