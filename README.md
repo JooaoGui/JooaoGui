@@ -13,6 +13,8 @@ Full-stack developer from Brazil. I build web applications end to end: **Java / 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+<a href="https://www.linkedin.com/in/joao-guilherme-andrade-santos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JooaoGui/JooaoGui/output/github-snake-dark.svg">
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/JooaoGui/JooaoGui/output/github-snake.svg">
