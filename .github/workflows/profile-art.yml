@@ -15,17 +15,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Pac-Man primeiro: o snk roda em Docker como root e deixa dist/ sem permissão de escrita
+      - uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
       - uses: Platane/snk@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: abozanona/pacman-contribution-graph@v5.0.0
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: pacman
 
       - uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
