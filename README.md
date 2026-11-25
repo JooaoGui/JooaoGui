@@ -1,23 +1,30 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Java developer — Gengar pixel art" width="100%">
-</p>
+### Hi, I'm João
 
-Full-stack developer from Brazil. I build web applications end to end: **Java / Spring Boot** APIs, **React / TypeScript** front-ends, and the infrastructure to ship them. Getting into open source.
+Java and Spring Boot developer from Brazil. Most of my time goes into backend work and into fixing real bugs in open-source projects.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</p>
+[LinkedIn](https://www.linkedin.com/in/joao-guilherme-andrade-santos) · Maranhão, Brazil · open to remote work
 
-<a href="https://www.linkedin.com/in/joao-guilherme-andrade-santos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+#### What I'm building
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JooaoGui/JooaoGui/output/github-snake-dark.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/JooaoGui/JooaoGui/output/github-snake.svg">
-</picture>
+**[bootleap](https://github.com/JooaoGui/bootleap)** tells you what will break before you upgrade to Spring Boot 4. It reads your build and code and points at each problem with the fix next to it. Runs as a CLI or as a [GitHub Action](https://github.com/marketplace/actions/bootleap-spring-boot-4-upgrade-check) that comments on your PR.
 
-<sub>Banner: original pixel fan art of Gengar. Pokémon © Nintendo / Creatures / GAME FREAK; not affiliated or endorsed.</sub>
+#### Open source
+
+Merged
+
+- [Samuel-Oliveira/Java_NFe#369](https://github.com/Samuel-Oliveira/Java_NFe/pull/369): the DANFE now prints the IBS/CBS tax regime from Brazil's tax reform
+
+In review
+
+- [Shopify/hydrogen#4421](https://github.com/Shopify/hydrogen/pull/4421): `gql check` broke when the project and the temp folder were on different Windows drives
+- [jhipster/generator-jhipster#36461](https://github.com/jhipster/generator-jhipster/pull/36461): generated apps lowercased logins with the system locale, so sign-up broke on Turkish machines
+- [jhipster/generator-jhipster#36463](https://github.com/jhipster/generator-jhipster/pull/36463): Jackson 3 was silently dropping fields like `kValue`
+- [androidx/media#3575](https://github.com/androidx/media/pull/3575): read the DVB supplementary audio descriptor in `TsExtractor`
+- [MobilityData/gtfs-validator#2269](https://github.com/MobilityData/gtfs-validator/pull/2269): row numbers on the shape distance notices
+- [ctt-gob-es/clienteafirma#604](https://github.com/ctt-gob-es/clienteafirma/pull/604): local signing servers now listen only on `127.0.0.1`
+- [aaif-goose/goose#13708](https://github.com/aaif-goose/goose/pull/13708): correct PATH instructions after installing on Windows
+- [wmixvideo/nfe#1230](https://github.com/wmixvideo/nfe/pull/1230): NFC-e DANFE now accepts `nfeProc` with a namespace prefix
+
+#### Tools I use
+
+Java · Spring Boot · Maven · Gradle · JUnit · TypeScript · React · Docker · GitHub Actions · Linux
