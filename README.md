@@ -13,11 +13,11 @@ Java and Spring Boot developer from Brazil. Most of my time goes into backend wo
 Merged
 
 - [Samuel-Oliveira/Java_NFe#369](https://github.com/Samuel-Oliveira/Java_NFe/pull/369): the DANFE now prints the IBS/CBS tax regime from Brazil's tax reform
+- [jhipster/generator-jhipster#36461](https://github.com/jhipster/generator-jhipster/pull/36461): generated apps lowercased logins with the system locale, so sign-up broke on Turkish machines
 
 In review
 
 - [Shopify/hydrogen#4421](https://github.com/Shopify/hydrogen/pull/4421): `gql check` broke when the project and the temp folder were on different Windows drives
-- [jhipster/generator-jhipster#36461](https://github.com/jhipster/generator-jhipster/pull/36461): generated apps lowercased logins with the system locale, so sign-up broke on Turkish machines
 - [jhipster/generator-jhipster#36463](https://github.com/jhipster/generator-jhipster/pull/36463): Jackson 3 was silently dropping fields like `kValue`
 - [androidx/media#3575](https://github.com/androidx/media/pull/3575): read the DVB supplementary audio descriptor in `TsExtractor`
 - [MobilityData/gtfs-validator#2269](https://github.com/MobilityData/gtfs-validator/pull/2269): row numbers on the shape distance notices
