@@ -17,6 +17,7 @@ Merged
 
 In review
 
+- [spring-projects/spring-kafka#4997](https://github.com/spring-projects/spring-kafka/pull/4997): share consumers (Kafka queues) ignored the consumer properties set on the container or the listener
 - [spring-projects/spring-data-jpa#4436](https://github.com/spring-projects/spring-data-jpa/pull/4436): sorting by an HQL alias written without `AS` broke the query
 - [Shopify/hydrogen#4421](https://github.com/Shopify/hydrogen/pull/4421): `gql check` broke when the project and the temp folder were on different Windows drives
 - [jhipster/generator-jhipster#36463](https://github.com/jhipster/generator-jhipster/pull/36463): Jackson 3 was silently dropping fields like `kValue`
