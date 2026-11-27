@@ -14,6 +14,7 @@ Merged
 
 - [Samuel-Oliveira/Java_NFe#369](https://github.com/Samuel-Oliveira/Java_NFe/pull/369): the DANFE now prints the IBS/CBS tax regime from Brazil's tax reform
 - [jhipster/generator-jhipster#36461](https://github.com/jhipster/generator-jhipster/pull/36461): generated apps lowercased logins with the system locale, so sign-up broke on Turkish machines
+- [wmixvideo/nfe#1230](https://github.com/wmixvideo/nfe/pull/1230): NFC-e DANFE now accepts `nfeProc` with a namespace prefix
 
 In review
 
@@ -25,7 +26,6 @@ In review
 - [MobilityData/gtfs-validator#2269](https://github.com/MobilityData/gtfs-validator/pull/2269): row numbers on the shape distance notices
 - [ctt-gob-es/clienteafirma#604](https://github.com/ctt-gob-es/clienteafirma/pull/604): local signing servers now listen only on `127.0.0.1`
 - [aaif-goose/goose#13708](https://github.com/aaif-goose/goose/pull/13708): correct PATH instructions after installing on Windows
-- [wmixvideo/nfe#1230](https://github.com/wmixvideo/nfe/pull/1230): NFC-e DANFE now accepts `nfeProc` with a namespace prefix
 
 #### Tools I use
 
